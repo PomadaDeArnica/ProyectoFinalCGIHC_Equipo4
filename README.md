@@ -1,2 +1,2 @@
-# ProyectoFinal_Equipo4
- Proyecto final de la materia de CGIHC - Equipo 4
+# LabCG-AndresRodríguez
+ Repositorio de las prácticas del laboratorio de computación gráfica
